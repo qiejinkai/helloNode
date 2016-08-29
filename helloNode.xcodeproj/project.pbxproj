@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		95F2EBCD1D74760900878578 /* file.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = file.js; sourceTree = "<group>"; };
+		95F2EBCE1D7476D800878578 /* server.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = server.js; sourceTree = "<group>"; };
+		95F2EBCF1D7477A900878578 /* main.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = main.js; sourceTree = "<group>"; };
+		95F2EBD01D74796400878578 /* remote.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = remote.js; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		95F2EBC61D7475DD00878578 = {
+			isa = PBXGroup;
+			children = (
+				95F2EBCD1D74760900878578 /* file.js */,
+				95F2EBCF1D7477A900878578 /* main.js */,
+				95F2EBD01D74796400878578 /* remote.js */,
+				95F2EBCE1D7476D800878578 /* server.js */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		95F2EBC71D7475DD00878578 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+			};
+			buildConfigurationList = 95F2EBCA1D7475DD00878578 /* Build configuration list for PBXProject "node_test" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 95F2EBC61D7475DD00878578;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		95F2EBCB1D7475DD00878578 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		95F2EBCC1D7475DD00878578 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		95F2EBCA1D7475DD00878578 /* Build configuration list for PBXProject "node_test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				95F2EBCB1D7475DD00878578 /* Debug */,
+				95F2EBCC1D7475DD00878578 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 95F2EBC71D7475DD00878578 /* Project object */;
+}
